@@ -1,10 +1,10 @@
-[alt text](https://i.imgur.com/jZqMXmu.png)
+![alt text](https://i.imgur.com/jZqMXmu.png)
 hostname whoami /user ping -4 Win10-02
 
-[alt text](https://i.imgur.com/THMoH9k.png)
+![alt text](https://i.imgur.com/THMoH9k.png)
 hostname whoami /user ping -4 Win10-01
 
-[alt text](https://i.imgur.com/frmDApI.png)
+![alt text](https://i.imgur.com/frmDApI.png)
 
 In this lab, I created and configured a virtual machine (VM) called Win10-Template using VMware Workstation Pro, and then installed Windows 10 Enterprise Edition on the virtual machine.  I also installed Guest Addition tools and configured the virtual machine.
 
